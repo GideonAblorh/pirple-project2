@@ -1,0 +1,46 @@
+body {
+	background-color: white;
+}
+
+.navbar-top {
+	background-color: #f3f3bd;
+    border: none;
+    border-radius: 0px;
+    color: black;
+    margin-bottom: 0px;
+}
+
+.navbar-top .navbar-nav > li > a {
+    color: black;
+}
+
+.navbar-top .navbar-brand {
+    color: black;
+    font-weight: bold;
+}
+
+h6 {
+	text-align: center;
+	border: none;
+	background-color: #f3f3bd;
+	height: 60px;
+	padding: 25px;
+}
+
+.left {
+	background-color: pink;
+}
+
+.right {
+	background-color: #e8e8df;
+	height: 1985px;
+}
+
+.round{
+	height: 40px;
+	width: 40px;
+	border-radius: 50px;
+	margin-bottom: 20px;
+	margin-right: 5px;
+	border: none;
+}
